@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1363206731 source:e:\final_project\final_project\startgame.cpp
+	<graphics.h>
+	<stdlib.h>
+	<stdio.h>
+	<mmsystem.h>
+
+1363201572 source:e:\final_project\final_project\mygame.cpp
+	<graphics.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<conio.h>
+
+1363207800 source:e:\final_project\final_project\menu.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<dos.h>
+	<stdlib.h>
+	<stdio.h>
+	<mmsystem.h>
+
